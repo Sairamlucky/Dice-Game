@@ -1,2 +1,2 @@
 # Dice-Game
-my game
+my simple game project 
